@@ -29,10 +29,10 @@ Hay que sacar capturas de los circuitos resueltos, así como generar las tablas 
 
 ### 📖 Temas de Clase
 
-* 📄 ![Tema 1](./documents/UT1_montaje.pdf)
+* 📄 ![Tema 1](documents/UT1_montaje.pdf)
 
 ### 📖 Diapositivas y ejercicios
 
-* 📄 ![Ejercicios circuitos serie y paralelos](./documents/ejercicios_circuitos.pdf)
+* 📄 ![Ejercicios circuitos serie y paralelos](documents/ejercicios_circuitos.pdf)
 
 
