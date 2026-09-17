@@ -18,11 +18,11 @@ En esta sección se listan las tareas obligatorias, sus especificaciones y las f
 
 Hay que sacar capturas de los circuitos resueltos, así como generar las tablas en caso de que las pidan.
 
-* 📄 ![Primera hoja](./imagenes/crocodile1.webp)
+* 📄 ![Primera hoja](images/crocodile1.webp)
 
-* 📄 ![Segunda hoja](./imagenes/crocodile2.webp)
+* 📄 ![Segunda hoja](images/crocodile2.webp)
 
-* 📄 ![Tercera hoja](./imagenes/crocodile3.webp)
+* 📄 ![Tercera hoja](images/crocodile3.webp)
 
 
 ## 📂 3. Documentos y Recursos Descargables
